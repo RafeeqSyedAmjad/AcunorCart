@@ -8,7 +8,7 @@ You can access the live demo of the application [here](https://acunor-cart.verce
 
 ## Repository
 
-Find the codebase for this application on [GitHub](https://github.com/03brainy-clicks/loch-assessment/).
+Find the codebase for this application on [GitHub](https://github.com/RafeeqSyedAmjad/AcunorCart/).
 
 ## Description
 
@@ -53,7 +53,7 @@ The Acunor Assessment Application is an Ecommerce web application built using Re
 
 To run this application locally, follow these steps:
 
-1. Clone the repository from [https://github.com/03brainy-clicks/loch-assessment/](https://github.com/03brainy-clicks/loch-assessment/).
+1. Clone the repository from [https://github.com/03brainy-clicks/loch-assessment/](https://github.com/RafeeqSyedAmjad/AcunorCart/).
 2. Navigate to the project directory.
 3. Install dependencies using `npm install` or `yarn install`.
 4. [Add any specific setup or configuration steps here, if required].
