@@ -4,7 +4,7 @@ This is the repository for the Acunor Assessment Application, a responsive web a
 
 ## Demo
 
-You can access the live demo of the application [here](https://csk-loch.netlify.app/).
+You can access the live demo of the application [here](https://acunor-cart.vercel.app/).
 
 ## Repository
 
